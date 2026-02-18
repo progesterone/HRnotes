@@ -1,4 +1,4 @@
-#Joy's Harm Reduction Notes
+# Joy's Harm Reduction Notes
 Harm reduction is the practice of minimizing harm of substance use through policy, community outreach, and education. The importance of harm reduction spans from a individual to a community, from a state to a country. Harm reduction aims to save lifes from reducing spread of bloodborne illnesses, preventing overdosing, and the reduce of negative stigmas within language. The inception of harm reduction started from the increasingly implimentation of letigation against drug users, those in recovery, and those who seek help-- People who are harmed by outdated and illinformed laws and policies.
 
 This repository was created to better archive my growing Obsidian note about substances. This resource is meant for personal use and reflection, not as a sole resource for research. I'm flattered if anyone sees any value of this project.
