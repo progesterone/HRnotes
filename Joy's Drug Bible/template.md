@@ -5,8 +5,9 @@
 Created:
 Last Updated on:
 Version: 1.0.0
+(template version: 2.1.2)
 
-⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** 
+⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** I am not affiliated, approved, nor endorsed with any groups or organizations, the usage of their information and resources is to my dismay.
 ## ==Overview / Quick Notes==
 placeholder text
 
@@ -130,9 +131,6 @@ TripSit's combo chart. 2/17/26
 * a
 * b
 #### **Caution**
-* a
-* b
-#### **Safe**
 * a
 * b
 

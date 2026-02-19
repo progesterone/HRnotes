@@ -47,6 +47,7 @@
 	* [[LSD]]
 	* [[2C-B]]
 * Expanded warnings for [[Joy]] and [[Overview]]
+* Created and researched [[DMT]]
 #### Notes:
 I am overall very happy with the way this is turning out, I know I have a lot lot more work to do, but I'm liking this structure new structure and general cleanliness of entries. 
 # 2/18/26

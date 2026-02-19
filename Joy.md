@@ -1,6 +1,6 @@
 Created: 2/17/26
 Last updated: 2/19/26
-Version: 1.0.3
+Version: 1.1.0
 ![[Not for Human Consumption.png]]
 [[Not for Human Consumption.png]]
 # Who am I?
@@ -19,8 +19,13 @@ I chose Obsidian to make this project for two reasons.
 2. The nature of what Obsidian is, is a note taking app. Not a Wiki nor a professional information website.
 Expanding on the second point, it should speak for how reliable this project is. It's essential that this is heard, noted, and reminded throughout this project. The reluctance of using other sources puts you and those around you in danger. **Not all overdoses will give the victim a second chance.** Use this to your own dismay, but I highly encourage readers and users to take everything here with a fat gallop of packing salt into your lip.
 
-If I've noted, written, misrepresented, or misinterpreted something, please let me know! You can contact me through several means. Mistakes happen!
+I am not endorsed, approved, nor affiliated with any organization, project or groups. The representation of their works and resources is my interpretation. The general knowledge of this project's existence is not present within the larger social harm reduction landscape. When using information directly from this project is at your own responsibility and risk.
+
+If I've noted, written, misrepresented, or misinterpreted something, please let me know! You can contact me through several means. Mistakes happen! I need to learn!
 Email: hr@joy.rip 
 Discord: @joypkt
 Signal: sativa.01
 Twitter: [@dogpkt](https://x.com/dogpkt)
+
+Reminder, you are loved and cherished! 🩷
+-Joy 

@@ -6,7 +6,7 @@ Created: 2/13/26
 Last Updated on: 2/19/26
 Version: 1.3.1
 
-⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** 
+⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** I am not affiliated, approved, nor endorsed with any groups or organizations, the usage of their information and resources is to my dismay.
 ## ==Overview / Quick Notes==
 LSD, Lysergic Acid Diethylamide, is a classical semisynthetic psychedelic of the [[Drug Classes#Lysergamides|lysergamide class]] (ergoline), [[Drug Classes#tryptamines|tryptamine substructure]]. First synthesized by [[Albert Hofmann]] on November 16th, 1938 and his first intentional consumption on April 19th, 1943, also known as [[Albert Hofmann#Bicycle Dat|Bicycle Day]]. LSD is known to be very potent, measured in µg, micrograms, with medium to strong visuals, mild-medium body effects, and very strong mental effects. LSD is one of the most researched drugs of today, with a long extensive cultural history creating and stemming many sub cultures starting in the 60s. Seen in cartoons to TV shows, from college lectures to movies, LSD is a celebrity compared to many substances. Today it's a common street drug with a wide range of enthusiast and users, from spiritual use, deeper insight and intellectual use, from raves to festivals alike.
 
@@ -106,7 +106,6 @@ Total trip lengths are often dictated by how much you take and tolerance. Aka, m
 * Time dilation
 * Auditory hallucinations
 * Mood swings
-* Slurring of words
 **Negative:**
 * Muscle tension
 * Jaw clenching
