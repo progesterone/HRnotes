@@ -1,4 +1,12 @@
 # 2/18/26
+* Implimented Github!
+	* https://github.com/progesterone/HRnotes
+* added AVG `timeline & dosage reference`
+	* [[LSD#Average Reference Dosage & Timeline]]
+	* [[2C-B#Average Reference Dosage & Timeline]]
+*note: pretty drunk when I was updating this, will have to go over what I did in the morning*
+
+# 2/18/26
 * Reworded for better understanding of [[What Is Harm Reduction]]
 * added [[Drug Classes#Definitions]]
 * Expanded some parts of [[Joy]]

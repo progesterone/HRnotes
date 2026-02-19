@@ -8,9 +8,7 @@ Version: 1.0.0
 ## ==Overview / Quick Notes==
 placeholder text
 
-
-
-
+---
 ## ==Reference Dosage & Timeline==
 #### Average Reference Dosage & Timeline
 *exclusion of my personal reference*
@@ -109,6 +107,7 @@ placeholder text
 | Rectal      |   -   |    -     |       -       |
 
 ---
+
 ## ==Effects==
 
 **Positive:**

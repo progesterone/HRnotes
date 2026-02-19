@@ -23,6 +23,17 @@ Typical routes of administration / ways of consumption include, blotter tabs, ge
 Total trip lengths are often dictated by how much you take and tolerance. Aka, more you take and lower your tolerance, longer the trip.
 
 ---
+#### Average Reference Dosage & Timeline
+*exclusion of my personal reference*
+
+| RoA  |   Light    |   Common    |    Strong    |  Heavy  |
+| ---- | :--------: | :---------: | :----------: | :-----: |
+| Oral | 28 - 83 µg | 83 - 150 µg | 150 - 308 µg | 308+ µg |
+
+| RoA  |       Onset       |    Peak     |    Total     |
+| ---- | :---------------: | :---------: | :----------: |
+| Oral | 27.5 - 75 minutes | 3 - 6 hours | 8 - 12 hours |
+
 #### Tripsit
 2/17/26
 
@@ -33,9 +44,9 @@ Total trip lengths are often dictated by how much you take and tolerance. Aka, m
 #### Psychonaut Wiki
 2/17/26
 
-| RoA        | Threshold  |   Light    |   Common    |    Strong    |  Heavy   |
-| ---------- | :--------: | :--------: | :---------: | :----------: | :------: |
-| Sublingual | 15 - 15 µg | 15 - 75 µg | 75 - 150 µg | 150 - 300 µg | 300 + µg |
+| RoA        | Threshold  |   Light    |   Common    |    Strong    |  Heavy  |
+| ---------- | :--------: | :--------: | :---------: | :----------: | :-----: |
+| Sublingual | 15 - 15 µg | 15 - 75 µg | 75 - 150 µg | 150 - 300 µg | 300+ µg |
 
 | RoA        |      Onset      |     Come Up     |    Peak     |   Offset    |   Duration   | After-effects |
 | ---------- | :-------------: | :-------------: | :---------: | :---------: | :----------: | :-----------: |
@@ -44,9 +55,9 @@ Total trip lengths are often dictated by how much you take and tolerance. Aka, m
 
 #### Erowid
 
-| RoA  | Threshold  |   Light    |   Common    |    Strong    | Heavy    |
-| ---- | :--------: | :--------: | :---------: | :----------: | -------- |
-| Oral | 10 - 20 µg | 20 - 75 µg | 75 - 150 µg | 150 - 400 µg | 400 + µg |
+| RoA  | Threshold  |   Light    |   Common    |    Strong    | Heavy   |
+| ---- | :--------: | :--------: | :---------: | :----------: | ------- |
+| Oral | 10 - 20 µg | 20 - 75 µg | 75 - 150 µg | 150 - 400 µg | 400+ µg |
 
 | RoA         |      Onset      |     Come Up     |   Plateau   |  Come Down  |   Duration   | After-effects |
 | ----------- | :-------------: | :-------------: | :---------: | :---------: | :----------: | :-----------: |

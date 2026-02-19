@@ -17,6 +17,23 @@ First being sold as "Eros," as a aphrodisiac, manufactured by Drittewelle, a Ger
 
 ---
 ## ==Reference Dosage & Timeline==
+#### Average Reference Dosage & Timeline
+*exclusion of my personal reference*
+
+| RoA         |   Light    |   Common    |   Strong   |    Heavy    |
+| ----------- | :--------: | :---------: | :--------: | :---------: |
+| Oral        | 5 – 15 mg  | 15- – 25 mg | 25 – 45 mg | 45 – 50+ mg |
+| Insufflated |  5 – 8 mg  |  8 – 15 mg  | 15 – 25 mg | 25 – 30+ mg |
+| Intravanous | 1 – 2.5 mg | 2.5 – 5 mg  | 5 – 10 mg  |   10+ mg    |
+| Rectal      | 5 – 10 mg  | 10 – 20 mg  | 20 – 30 mg |   30+ mg    |
+
+| RoA         |    Onset    |    Peak     |   Total   |
+| ----------- | :---------: | :---------: | :-------: |
+| Oral        | 20 – 60 min |  1 – 2 hrs  | 5 – 8 hrs |
+| Insufflated | 1 – 10 min  | 1 – 1.5 hrs | 4 – 6 hrs |
+| Intravanous | 5 – 15 sec  | 5 – 30 min  | 2 – 3 hrs |
+| Rectal      | 5 – 20 min  |  1 – 2 hrs  | 4 – 7 hrs |
+
 #### Tripsit
 2/17/26
 
