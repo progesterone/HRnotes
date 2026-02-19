@@ -1,9 +1,11 @@
 #overview #definitions #lysergamides #ergoamides #ergoline #tryptamines #phenethylamine #Arylcyclohexylamines #write-up
 
 Created: 2/17/26
-Last Updated on: 2/18/26
-Version: 1.0.1
+Last Updated on: 2/19/26
+Version: 1.1.0
 
+## Excerpt from [[Introduction to the chemistry and pharmacology of psychedelic drugs]]:
+![[Introduction to the chemistry and pharmacology of psychedelic drugs#Interpretation]]
 ## Lysergamides or Ergoamides
 Lysergamides or Ergoamides, are amides, which is a general base structure of a compound of lysergic acids.
 ergoline is a class of substances/compounds that stem from ergot, a group of fungi.
@@ -28,7 +30,7 @@ A Phenethylamine drug is any compound that has a phenethylamine backbone structu
 
 Related substances:
 [[MDMA]]
-[[mescaline]]
+[[Mescaline]]
 2C-x
 	[[2C-B]]
 [[DOx]]

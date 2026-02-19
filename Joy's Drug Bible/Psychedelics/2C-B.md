@@ -3,11 +3,12 @@
 "Nexus", "Bees", "Venus", "Bromo Mescaline", "BDMPEA", "4-Bromo-2,5-dimethoxyphenethylamine"
 
 Created: 2/13/26
-Last Updated on: 2/17/26
-Version: 1.1.0
+Last Updated on: 2/19/26
+Version: 1.1.1
 
+⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** 
 ## ==Overview / Quick Notes==
-A psychedelic of the phenethylamine class, part of the 2C-X family, often times compared to a mix of [[LSD]] and [[MDMA]]. First discovered in 1974, by [[Alexander Shulgin]]. The mechanism of 2C-B is not fully researched, but it is known to interact with serotonin receptors. Known for medium strength visuals, euphoria, and contains the ability for ego loss. Considered to have less serious headspace than other [[Drug Classes#tryptamine|tryptamine class]] drugs, like [[LSD]] or psilocybin mushrooms.
+A psychedelic of the phenethylamine class, part of the 2C-X family, often times compared to a mix of [[LSD]] and [[MDMA]]. First discovered in 1974, by [[Alexander Shulgin]]. The mechanism of 2C-B is not fully researched, but it is known to interact with 5HT2a, the serotonin receptors. Known for medium strength visuals, euphoria, and contains the ability for ego loss. Considered to have less serious headspace than other [[Drug Classes#tryptamine|tryptamine class]] drugs, like [[LSD]] or psilocybin mushrooms.
 
 First being sold as "Eros," as a aphrodisiac, manufactured by Drittewelle, a German pharmaceutical company. Later it also became available as "Nexus," a tablet sold in Dutch "smart shops."
 
@@ -137,17 +138,14 @@ First being sold as "Eros," as a aphrodisiac, manufactured by Drittewelle, a Ger
 [[TripSit_combo_chart.png]]
 TripSit's combo chart. 2/17/26
 #### **DANGEROUS**
-* Lithium - increase of psychosis and seizures
-* Tramadol - lowers seizure threshold
+* [[Lithium]] - Increase chance of psychosis and seizures.
+* [[Tramadol]] - Lowers seizure threshold.
 #### **Caution**
-* Cannabis - unknown and unpredictable synergy, chance of increased anxiety, paranoia, panic attacks
-#### **Safe**
-* LSD
-* Ketamine
+* [[Cannabis]] - unknown and unpredictable synergy, chance of increased anxiety, paranoia, panic attacks.
 
 ---
 ## ==Tolerance & Consumption Notes==
-2C-B is not known to have a tolerance build up. However, LSD causes tolerance to 5-HT2A receptors, which 2C-B interacts with. [Source](https://www.reddit.com/r/2cb/comments/1bj98sg/2cb_tolerance/)
+2C-B is not known to have a tolerance build up. However, LSD causes tolerance to 5-HT2A receptors, which 2C-B interacts with.
 
 
 ---

@@ -5,6 +5,8 @@
 Created:
 Last Updated on:
 Version: 1.0.0
+
+⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** 
 ## ==Overview / Quick Notes==
 placeholder text
 

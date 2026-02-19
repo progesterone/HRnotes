@@ -1,5 +1,56 @@
+# 2/19/26
+* added [[Overview]]
+	* see below for update.
+	* ~~[[Overview#Harm Reduction]]~~
+		* ~~[[Overview#Write-ups]]~~
+	* ~~[[Overview#Joy's Drug Bible]]~~
+		* ~~[[Overview#Psychedelics]]~~
+		* ~~[[Overview#Dissociatives]]~~
+		* ~~[[Overview#Deliriants]]~~
+		* ~~[[Overview#Depressants]]~~
+		* ~~[[Overview#Nootropics]]~~
+		* ~~[[Overview#Stimulants]]~~
+	* ~~[[Overview#Experience Logs]]~~
+* expanded more of [[Joy]]
+	* "I am not trying to compete with anyone or anything, I am not a dictator nor leader. "
+* Expanded [[LSD#==Personal Reflections==]]
+* General rewording and punctuation correcting throughout [[LSD]]
+* General rewording and punctuation correcting throughout [[2C-B]]
+* Removed source from [[2C-B#==Tolerance & Consumption Notes==]] as I believe I can find a stronger source.
+* Added and wrote [[Introduction to the chemistry and pharmacology of psychedelic drugs#Interpretation]]
+	* added a excerpt link into [[Drug Classes]]
+		* [[Drug Classes#Excerpt from Introduction to the chemistry and pharmacology of psychedelic drugs]]
+* Restructure the obsidian note
+	* I did this to better organize write-ups, pages made for presentation, from research notes, made to show my thinking and what I know.
+	* `Write-Ups`
+	* `Research`
+	* Resulted in a restructured [[Overview]] 
+		* [[Overview#Write-ups]]
+			* [[Overview#Harm Reduction Write Ups]]
+			* [[Overview#Chemistry Write Ups]]
+			* [[Overview#Notable Figures]]
+		* [[Overview#Joy's Drug Bible]]
+			* [[Overview#Psychedelics]]
+			* [[Overview#Dissociatives]]
+			* [[Overview#Deliriants]]
+			* [[Overview#Depressants]]
+			* [[Overview#Nootropics]]
+			* [[Overview#Stimulants]]
+		* [[Overview#Research]]
+			* [[Overview#Chemistry Notes]]
+			* [[Overview#Harm Reduction Notes]]
+		* [[Overview#Experience Logs]]
+		* [[Overview#Obsidian Note & Misc]]
+			* [[Overview#Images]]
+* Added a warning to a few entries
+	* ⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** 
+	* [[LSD]]
+	* [[2C-B]]
+* Expanded warnings for [[Joy]] and [[Overview]]
+#### Notes:
+I am overall very happy with the way this is turning out, I know I have a lot lot more work to do, but I'm liking this structure new structure and general cleanliness of entries. 
 # 2/18/26
-* Implimented Github!
+* Implemented GitHub!
 	* https://github.com/progesterone/HRnotes
 * added AVG `timeline & dosage reference`
 	* [[LSD#Average Reference Dosage & Timeline]]
@@ -11,7 +62,7 @@
 * added [[Drug Classes#Definitions]]
 * Expanded some parts of [[Joy]]
 	* [[Joy#What is this? Why am I making this?]]
-		* [[Dominic Milton Trott]]
+		* [[Dominic Trott]]
 * Added `Created`, `Last Updated`, and `Version` to relevant pages
 	* [[What Is Harm Reduction]]
 	* [[2C-B]]

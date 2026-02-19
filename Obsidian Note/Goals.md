@@ -1,3 +1,5 @@
+This is a somewhat dead page. I will now typically use this as a note for future self.
+
 # Harm Reduction
 - [ ] Finish `What Is Harm Reduction`
 - [ ] Add a `Resources` page

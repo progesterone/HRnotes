@@ -3,10 +3,12 @@
 "Acid", "Cid", "Lucy"
 
 Created: 2/13/26
-Last Updated on: 2/18/26
-Version: 1.2.0
+Last Updated on: 2/19/26
+Version: 1.3.1
+
+⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** 
 ## ==Overview / Quick Notes==
-LSD, Lysergic Acid Diethylamide, is a classical semisynthetic psychedelic of the [[Drug Classes#Lysergamides|lysergamide class]] (ergoline), [[Drug Classes#tryptamines|tryptamine substructure]]. First synthesized by [[Albert Hofmann]] on November 16th, 1938 and his first intentional consumption on April 19th, 1943, also known as [[Albert Hofmann#Bicycle Dat|Bicycle Day]]. LSD is known to be very potent, measured in µg, micrograms, with medium to strong visuals, mild-medium body effects, and very strong mental effects. LSD is one of the most researched drugs of today, with a long extensive cultural history creating and stemming many sub cultures starting in the 60s. Today it's a common street drug with a wide range of enthusiast and users, from spiritual use, deeper insight and intellectual use, from raves to festivals alike.
+LSD, Lysergic Acid Diethylamide, is a classical semisynthetic psychedelic of the [[Drug Classes#Lysergamides|lysergamide class]] (ergoline), [[Drug Classes#tryptamines|tryptamine substructure]]. First synthesized by [[Albert Hofmann]] on November 16th, 1938 and his first intentional consumption on April 19th, 1943, also known as [[Albert Hofmann#Bicycle Dat|Bicycle Day]]. LSD is known to be very potent, measured in µg, micrograms, with medium to strong visuals, mild-medium body effects, and very strong mental effects. LSD is one of the most researched drugs of today, with a long extensive cultural history creating and stemming many sub cultures starting in the 60s. Seen in cartoons to TV shows, from college lectures to movies, LSD is a celebrity compared to many substances. Today it's a common street drug with a wide range of enthusiast and users, from spiritual use, deeper insight and intellectual use, from raves to festivals alike.
 
 ![[Rabbit LSD.jpeg]]
 [[Rabbit LSD.jpeg]]
@@ -123,13 +125,13 @@ Total trip lengths are often dictated by how much you take and tolerance. Aka, m
 [[TripSit_combo_chart.png]]
 TripSit's combo chart. 2/17/26
 #### **DANGEROUS** - Avoid combination
-* **Tramadol** - Tramadol lowers seizure thresholds.
-* **Lithium** - Lowers seizure thresholds, and/or significant chance of psychosis.
+* **[[Tramadol]]** - Tramadol lowers seizure thresholds.
+* **[[Lithium]]** - Lowers seizure thresholds, and/or significant chance of psychosis.
 #### **Caution** - Increases in unpredictable and psychological intensity
-* **Cannabis** - wildly strong synergy with most psychedelics, especially LSD. Increased chances of anxiety, paranoia, panic attacks, and psychosis.
-* **Amphetamines** - Increases anxiety levels, risk of paranoia, thought loops, and psychosis.
-* **Cocaine** - Increases anxiety levels, risk of paranoia, thought loops, and psychosis.
-* **SSRIS** - some SSRIS and LSD are consumed by the CYP2D6 enzyme within the liver, which will heighten the risk of [[serotonin syndrome]]
+* **[[Cannabis]]** - wildly strong synergy with most psychedelics, especially LSD. Increased chances of anxiety, paranoia, panic attacks, and psychosis.
+* **[[Amphetamine]]** - Increases anxiety levels, risk of paranoia, thought loops, and psychosis.
+* **[[Cocaine]]** - Increases anxiety levels, risk of paranoia, thought loops, and psychosis.
+* **[[SSRIS]]** - some SSRIS and LSD are consumed by the CYP2D6 enzyme within the liver, which will heighten the risk of [[serotonin syndrome]]
 * **Opioids** - Respiratory depression if sedated
 
 ---
@@ -142,7 +144,7 @@ LSD is considered non-addictive with low abuse potential, and with no withdrawal
 
 ---
 ## ==Safety & Harm‑Reduction==
-- **Test**: Reagent testing is needed to rule out NBOMe's. Should NOT taste like anything other than paper or gelatin
+- **Test**: Reagent testing is needed to rule out NBOMe's. Should NOT taste like anything other than paper or gelatin.
 - **Set & Setting**: People often go out for walks or sack themselves to a couch.
 - **Hydration**: Does not directly dehydrates you.
 - **Dosage**: Fatal toxicity from LSD alone is extremely rare. Reported massive overdoses (multi-milligram range) have survived, though with severe temporary symptoms.
@@ -169,15 +171,17 @@ Lab tests are needed for purity.
 ---
 ## ==Tips==
 * I recommend putting on a movie or a nature documentary.
-* When using with cannabis, you will experience short term memory loss, and possible auditory hallucinations. It'll be hard to keep yourself in a single spot, but prepare yourself with a glass of water before the trip.
+* When using with cannabis, you will experience short term memory loss, and possible auditory hallucinations. It'll be hard to keep yourself in a single spot, but prepare yourself with a glass of water before the trip, I woke up out of the trip with 4-5 glasses of water on my nightstand.
 * Light meals before dosing may reduce nausea. Heavy meals can delay onset.
-* I've experienced increased sensitivity to temperature, so a light blanket and just a baggie hoodie as a top is comfortable. 
+* I've experienced increased sensitivity to temperature, so a light blanket and just a baggie hoodie as a top is comfortable. Truly personal preference.
 #### Storage: 
-LSD is very sensitive to air, light, warm temperature, and moisture. For a long term storage, wrap in tinfoil, place in a plastic baggy, and in a air tight container, and place in a dry spot away from electronics. Some users have just stored their tabs in books, keep their potency for months to years.
+LSD is very sensitive to air, light, warm temperature, and moisture. For a long term storage, wrap in tinfoil, place in a plastic baggy, and in a air tight container, and place in a dry spot away from electronics. Some users have just stored their tabs in books, noting that they kept their potency for months to years.
 
 ---
 ## ==Personal Reflections==
-One of my favorite substances, it's a substance that I used for recreational fun early on. My first experience wasn't particularly glamorous, I bought some, took a tab, played counter-strike, and chilled out to music as I peaked mid game. As I continued to peak I started to watch YouTube, where I found seeing people speaking to be disturbing, everyone felt disconnected and disjointed entirely, so I continued to lay back in my bed chatting with a friend who was tripping with me for the first time too. Truly a bonding experience...
+One of my favorite substances, with trippy visuals and a generally comfortable stimulation. My first experience wasn't particularly glamorous, I bought some, took a tab, played counter-strike, and chilled out to music as I peaked mid game. As I continued to peak I started to watch YouTube, where I found seeing people speaking to be disturbing, everyone felt disconnected and disjointed entirely, so I continued to lay back in my bed chatting with a friend who was tripping with me for the first time too. Truly a bonding experience...
+
+Today, when I take LSD I use it as a floor of sorts, to stack other substances and combos onto it, such as [[Ketamine]] and [[2C-B]]. 
 
 ---
 ## ==Experiences==

@@ -1,8 +1,8 @@
 #notes #ergoline #lysergic #lysergamides #Arylcyclohexylamines #tryptamines #phenethylamine 
 
 Created: 2/17/26
-Last Updated on: 2/18/26
-Version: 1.0.1
+Last Updated on: 2/19/26
+Version: 1.1.0
 
 https://connectsci.au/ch/article/76/5/236/85535/Introduction-to-the-chemistry-and-pharmacology-of
 
@@ -111,7 +111,7 @@ SAR studies discovered [[NBOMe]]s
 	hyperthermia, tachycardia, agitation, and seizures
 	highly toxic
 
-[[Alexander Shulgin]] forced [[Leo Zeff]] out of 15 year retirement by showing him DMA
+[[Alexander Shulgin]] forced [[Leo Zeff]] out of 15 year retirement by showing him  [[MDMA]]
 	[[Leo Zeff]] studied [[MDMA]], psychotherapy
 		so successful that the stepped in and banned it
 [[David Nichols]] argues [[MDMA]] is not a psychedelic
@@ -121,7 +121,7 @@ SAR studies discovered [[NBOMe]]s
 Nichols rejects the classification of empathogen
 Arylcyclohexylamines.
 ## [[Drug Classes#Arylcyclohexylamines|Arylcyclohexylamines]]
-[[ketamine]], [[PCP]], examples synthetic dissociative, examples of [[Drug Classes#Arylcyclohexylamines|Arylcyclohexylamines]] class
+[[Ketamine]], [[PCP]], examples synthetic dissociative, examples of [[Drug Classes#Arylcyclohexylamines|Arylcyclohexylamines]] class
 Phencyclidine, sold as Sernyl, caused schizophrenic psychosis, aggressive behavior, catatonia
 [[PCP]], "angel dust" first documented synthetic drug of abuse.
 	Disturbing behaviors, extreme violence, self mutilation, cannibalism, and suicide
@@ -134,3 +134,13 @@ known for antidepressant properties (I agree)
 	rapid onset intravenously, reduce suicidal ideation
 [[PCP]], [[ketamine]], crosses blood brain barrier, NDMAM receptor antagonist, key mechanism
 racemate, S-enantiomer is more potent NMDA receptor
+
+# Interpretation
+
+Every substance is a compound, every compound has a structure, and within these structures there are repeating patterns of molecules that scientists have noticed and labelled. These structures include Tryptamine, Phenethylamine, Arylcyclohexylamines. Substances such as [[LSD]] stem from Ergot, a group of fungi that contain ergoline alkaloids, a naturally found compound. [[Albert Hofmann]] wasn't the first to test and experiment with ergoline alkaloids, but did discover [[LSD]]. Throughout his research of psychedelics, he noticed a common lysergic acid amide, a compound of carboxylic acids with differentiating substructures, all with a variety of biological effects. With a shared commonality between substances, they also shared a common effect, acting on serotonin, dopamine, and histamine receptors, the 5-HT family of receptors. One particular receptor being 5-HT2a is involved with higher order brain function, such as cognition and perception. [[LSD]] is observed to effect G-proteins, a type of transmembrane protein responsible for signal traversal between cells.
+
+Tryptamines, is a shared structure of aminoethyl groups extending from a indole core, which is a basis of neurotransmitters such as serotonin again. A notable substance is [[DMT]], found in biological fluids such as the CNS, human lung and adrenal tissues. This structure is also used in psilocybin fungi, differing from what's in our bodies by a phosphate substitution for the core tryptamine structure. DMT acts on the serotoninergic nervous system, with a lower affinity for adrenergic and dopamine receptors.
+
+Phenethylamines is a structure of a primary or a secondary amine, linked by two carbon units of a phenyl group. Dopamine and noradrenaline share this structure. Amphetamines, MDMA, and Mescaline are known substances that shares this structure. Phenethylamines have little room for modification, as many mods will have drastic degradation of potency. However, a particular modification discovered [[NBOMe]]s, a substance that share visual and auditory *pseudohallucinations* like [[LSD]], however it's increase chance of harm comes with hyperthermia, tachycardia, increase chances of seizures, and is highly toxic in rising quantities.
+
+Arylcyclohexylamines is a structure class, with known substances such as [[Ketamine]] and [[PCP]]. Arylcyclohexylamines are examples of synthetic dissociatives. This class is identified with a cyclohexylamine core with an attached Aryl Moiety ring, with typical substituents such as secondary amines. Substances under this class will cross the blood brain barrier, and act on the NDMAM and NMDA receptors as a key antagonist mechanism.
