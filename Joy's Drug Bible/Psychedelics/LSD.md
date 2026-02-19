@@ -3,8 +3,8 @@
 "Acid", "Cid", "Lucy"
 
 Created: 2/13/26
-Last Updated on: 2/17/26
-Version: 1.1.0
+Last Updated on: 2/18/26
+Version: 1.2.0
 ## ==Overview / Quick Notes==
 LSD, Lysergic Acid Diethylamide, is a classical semisynthetic psychedelic of the [[Drug Classes#Lysergamides|lysergamide class]] (ergoline), [[Drug Classes#tryptamines|tryptamine substructure]]. First synthesized by [[Albert Hofmann]] on November 16th, 1938 and his first intentional consumption on April 19th, 1943, also known as [[Albert Hofmann#Bicycle Dat|Bicycle Day]]. LSD is known to be very potent, measured in µg, micrograms, with medium to strong visuals, mild-medium body effects, and very strong mental effects. LSD is one of the most researched drugs of today, with a long extensive cultural history creating and stemming many sub cultures starting in the 60s. Today it's a common street drug with a wide range of enthusiast and users, from spiritual use, deeper insight and intellectual use, from raves to festivals alike.
 

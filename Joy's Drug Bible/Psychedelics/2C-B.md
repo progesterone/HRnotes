@@ -3,8 +3,8 @@
 "Nexus", "Bees", "Venus", "Bromo Mescaline", "BDMPEA", "4-Bromo-2,5-dimethoxyphenethylamine"
 
 Created: 2/13/26
-Last Updated on: 2/13/26
-Version: 1.0.0
+Last Updated on: 2/17/26
+Version: 1.1.0
 
 ## ==Overview / Quick Notes==
 A psychedelic of the phenethylamine class, part of the 2C-X family, often times compared to a mix of [[LSD]] and [[MDMA]]. First discovered in 1974, by [[Alexander Shulgin]]. The mechanism of 2C-B is not fully researched, but it is known to interact with serotonin receptors. Known for medium strength visuals, euphoria, and contains the ability for ego loss. Considered to have less serious headspace than other [[Drug Classes#tryptamine|tryptamine class]] drugs, like [[LSD]] or psilocybin mushrooms.
