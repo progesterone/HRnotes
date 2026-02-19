@@ -1,0 +1,1 @@
+I, Joy, used AI to research, for the sole purpose of finding sources, not for ai's interpretation of these sources. I do acknowledge that I am following AI's biases through their selection and curation of the sources they present to me. 
