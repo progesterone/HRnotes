@@ -3,16 +3,15 @@ Harm reduction is the practice of minimizing harm of substance use through polic
 
 This repository was created to better archive my growing Obsidian note about substances. This resource is meant for personal use and reflection, not as a sole resource for research. I'm flattered if anyone sees any value of this project.
 
-⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** 
+⚠️**Reminder:** I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** 
 
 # Release
 A published version of this project can be found at: https://publish.obsidian.md/prog/
-I have plans to associating my domain, joy.rip, to also display the obsidian vault, in the near future.
 
-Feel free to clone or copy, or whatever it is that github users do, with this project. Having a local copy when needed can be highly essential when experiencing loss of internet connection, and may prevent or help with staying safe when using substances. I urge not to republish this project as your own without contacting me, as the need to do so can stem from conflicting information or philosphies, which incase I'd love to be educated and corrected to better ample my harm reduction toolset.
+Feel free to clone or copy, or whatever it is that GitHub users do, with this project. I urge not to republish this project as your own without contacting me, as the need to do so can stem from conflicting information or philosophies, which incase I'd love to be educated and corrected to better ample my harm reduction toolset.
 
-If I have any conflicting, misrepresenting, or misinterepting information, notes, or write ups, please contact me.
-twitter: @dogpkt
-discord: @joypkt
+If I have any conflicting, misrepresenting, or misinterpreting information, notes, or write ups, please contact me.
+twitter: @[neuroplastisity](https://x.com/neuroplastisity)
+discord: @mxpcp
 signal: sativa.01
 email: hr@joy.rip

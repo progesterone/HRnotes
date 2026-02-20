@@ -23,9 +23,9 @@ I am not endorsed, approved, nor affiliated with any organization, project or gr
 
 If I've noted, written, misrepresented, or misinterpreted something, please let me know! You can contact me through several means. Mistakes happen! I need to learn!
 Email: hr@joy.rip 
-Discord: @joypkt
+Discord: @mxpcp
 Signal: sativa.01
-Twitter: [@dogpkt](https://x.com/dogpkt)
+Twitter: [@neuroplastisity]([https://x.com/dogpkt](https://x.com/neuroplastisity))
 
 Reminder, you are loved and cherished! 🩷
 -Joy 

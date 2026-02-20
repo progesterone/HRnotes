@@ -3,24 +3,24 @@ Created: 2/19/26
 Last Updated on: 2/19/26
 Version: 1.2.2
 
-This is an overview, a sort of table of contents of this obsidian web, a front page of a Wiki. Each 4 sections, **Write-ups**, **Joy's Drug Bible**, **Research**, and **Experience Logs**, will contain obsidian links to each entry of it's respected area.
+This is an overview, a sort of table of contents of this obsidian web. Each 4 sections, that being **Write-ups**, **Joy's Drug Bible**, **Research**, and **Experience Logs**, will contain obsidian links to each entry of it's respected area.
 
-A good starting point to learning what this note about would be [[What Is Harm Reduction]]. This is a general understanding of what Harm reduction is and it's goals. Another page to read would be the page about me, [[Joy]], as this will explain bit of who I am, what this page intends to be, and possible show you what possible biases and prejudices I have. 
+A good starting point to learn what this note about would be "[[What Is Harm Reduction]]." This will have a general understanding of what Harm reduction is, and it's goals. Another page to start with would be about me "[[Joy]]," as this will explain bit of who I am, what this page intends to be, and possible show you what biases and unrealized prejudices I have. 
 
-Though stated in several locations already, please do not use this as a sole resource. I'm human, I will make mistakes. I'm not a professional, I'm a 21 year old who barely passed high school. My experience, knowledge is not as vast as others or collectives. This project is intended to be a collection of my own personal notes to equip myself for harm reduction work in the future, amping my toolset. I will be flattered and in full blush if anyone sees any value in this. 
+Though stated in several locations already, please do not use this as a sole resource. I'm human, I will make mistakes. I'm not a professional, I'm a 21 year old who barely passed high school. My experience nor knowledge is not as vast as other. This project is intended to be a collection of my own personal notes to equip myself for harm reduction work in the future, amping my toolset. I will be flattered, and in full blush, if anyone sees any value in this. 
 # Write-ups
 Everything that is made for presentation of ideas, notes, definitions and articles. 
 ### Harm Reduction Write Ups
-typically of policies, history, and philosophies. 
+Policies, history, and philosophies. 
 
 * [[What Is Harm Reduction|What is Harm Reduction?]]
 
 ### Chemistry Write Ups
-Write-ups about substances, the way they are made, and how they affect the body.
+Chemistry, substances, and effects on the body.
 
 * [[Drug Classes]]
 ### Notable Figures
-Write-ups about prolific people, such as professors, scientists, harm reduction leaders, and more.
+Prolific people, such as professors, scientists, harm reduction leaders, and more.
 
 **Chemists**
 * [[Albert Hofmann]]
@@ -30,7 +30,7 @@ Write-ups about prolific people, such as professors, scientists, harm reduction 
 
 ---
 # Joy's Drug Bible
-These are pages are about specific substances, sorted within their defined classes, such as Psychedelics like [[LSD]] and [[DMT]], to stimulants like [[MDMA]] and [[Cocaine]].
+Specific substances, sorted within their drug types.
 ### Psychedelics
 
 | [[LSD]] | [[DMT]]   | [[DOM]] | [[2C-B]] | [[Mescaline]] | [[Psilocybin]] |
@@ -66,24 +66,24 @@ These are pages are about specific substances, sorted within their defined class
 
 ---
 # Research
-These are scattered notes, smaller write-ups notable figures, and harm reduction research.
+Notes about chemistry and harm reduction research.
 ### Chemistry Notes
 Notes about substances, chemistry, and the body.
 * [[Introduction to the chemistry and pharmacology of psychedelic drugs]]
 ### Harm Reduction Notes
-Study notes about policies, legislation, and harm reduction data.
+Notes about policies, legislation, and harm reduction data.
 * [[Stigma, how it affects the substance use disorder patient]]
 
 ---
 # Experience Logs
-These are my own experience logs, usually crudely constructed and formatted, please forgive me :(
+These are of my own experiences.
 
 | [[2C-B - 2.13.26 - first time]] |     |
 | ------------------------------- | --- |
 |                                 |     |
 
 # Obsidian Note & Misc.
-This is all the pages dedicated to this obsidian note, such as images, a history log, goals. This will also include loose pages, such as [[Joy]], and [[README]], as these don't neatly add themselves to any folders.
+All the extra pages and images within this project.
 
 * [[Activity Log]]
 * [[Goals]]

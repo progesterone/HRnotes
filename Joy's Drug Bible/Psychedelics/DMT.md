@@ -175,7 +175,6 @@ DMT is not known to have any tolerance, nor does it produce cross tolerance.
 ---
 ## ==Tips==
 * Your setting is important. The come-up can be fast, and you will feel disoriented. Recommended to be seated.
-* b
 #### Storage: 
 DMT is sensitive to high temperatures, UV light, oxygen, and water. Store in a airtight container, placed in a cool, dark place. Be careful for mold growth. DMT will oxidize and change color, into yellow, which is not an issue for slight yellowing.
 

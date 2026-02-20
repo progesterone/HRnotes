@@ -7,8 +7,8 @@ Version: 1.1.0
 ## Excerpt from [[Introduction to the chemistry and pharmacology of psychedelic drugs]]:
 ![[Introduction to the chemistry and pharmacology of psychedelic drugs#Interpretation]]
 ## Lysergamides or Ergoamides
-Lysergamides or Ergoamides, are amides, which is a general base structure of a compound of lysergic acids.
-ergoline is a class of substances/compounds that stem from ergot, a group of fungi.
+Lysergamides or Ergoamides, are amides, which is a general base structure of a compound, in particular lysergic acids.
+Ergoline is a class of substances/compounds that stem from ergot, a group of fungi.
 This amide are believed to affect the 5-HT2A receptor, which induce psychedelic effects.
 Substances under this class are:
 

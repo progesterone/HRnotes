@@ -182,7 +182,7 @@ Soluble in water, degrades from high temperatures and air. Advised to store in a
 
 ---
 ## ==Personal Reflections== 
-This substance was pretty fun, I got enhanced visuals, I felt quite pleasant, and was in general pretty joyous. I've tried 30mg at once, and splitting 15mg into 2 consumption points, and it wasn't as strong as I've hoped. I did not purity test, just tested for fent. I will try this substance again at a referenced heavy dose eventually. I think I'd use this substance to enhance others at a light-common dose to help with any come downs.
+This substance was pretty fun, I got enhanced visuals, I felt quite pleasant, and was in general pretty joyous. I've tried 30mg at once, and splitting 15mg into 2 consumption points, and it wasn't as strong as I've hoped. I did not purity test. I will try this substance again at a referenced heavy dose eventually. I think I'd use this substance to enhance others at a light-common dose to help with any come downs.
 
 ---
 ## ==Experiences==
