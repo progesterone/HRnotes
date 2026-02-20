@@ -1,29 +1,30 @@
 This is a somewhat dead page. I will now typically use this as a note for future self.
 
 # Harm Reduction
-- [ ] Finish `What Is Harm Reduction`
-- [ ] Add a `Resources` page
+- [ ] Finish [[What Is Harm Reduction]]
+- [ ] Add a [[Resources]] page
 # Joy's Drug Bible
-- [ ] LSD
+- [ ] [[LSD]]
 	- [x] Redo LSD's entry
 	- [ ] Add Experience
-- [ ] MDMA
+- [ ] [[MDMA]]
 	- [ ] add experience entry
 	- [ ] Create Entry
-- [ ] Ketamine
+- [ ] [[Ketamine]]
 	- [ ] Add experience Entry
 	- [ ] Add Entry
-- [ ] THC / Cannabis
+- [ ] THC / [[Cannabis]]
 	- [ ] Add Entry
 	- [ ] Add Experience Entry
-- [ ] Alcohol
+- [ ] [[Alcohol]]
 	- [ ] Add Entry
 - [ ] add a 'avg' timeline & dosage references
 # Research
-- [ ] Research Alexander Shulgin
-- [ ] Research Albert Hofmann
-- [ ] Research Dominic Milton Trott
+- [ ] Research [[Alexander Shulgin]]
+- [x] Research [[Albert Hofmann]]
+- [ ] Research [[Dominic Trott]]
 	- [ ] possible interview him?
+		- [ ] LMAO
 - [ ] Research Reagent Tests
 # Extras
 - [ ] Create road map

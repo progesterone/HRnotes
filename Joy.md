@@ -1,6 +1,6 @@
 Created: 2/17/26
 Last updated: 2/19/26
-Version: 1.1.0
+Version: 1.1.1
 ![[Not for Human Consumption.png]]
 [[Not for Human Consumption.png]]
 # Who am I?

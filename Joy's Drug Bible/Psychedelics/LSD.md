@@ -1,6 +1,6 @@
-#lsd #psychedelic #classic_psychedelic #oral #common #acid #cid #lucy #tryptamines #lysergic #ergoline
+#lsd #psychedelic #classic_psychedelic #oral #common #acid #cid #lucy #tryptamines #lysergic #ergoline #lsd-25
 *also known as:*
-"Acid", "Cid", "Lucy"
+"Acid", "Cid", "Lucy", "LSD-25"
 
 Created: 2/13/26
 Last Updated on: 2/19/26
@@ -153,19 +153,19 @@ LSD is considered non-addictive with low abuse potential, and with no withdrawal
 ([psychonautwiki](https://psychonautwiki.org/wiki/2c-b#Reagent_results))
 Lab tests are needed for purity.
 
-| Test            | Result                         | Notes                                                                      |
-| --------------- | ------------------------------ | -------------------------------------------------------------------------- |
-| Marquis         | No reaction                    | Good to rule-out NBOMe compoounds                                          |
-| Mecke           | Olive/Green (slow, weak)       |                                                                            |
-| Mandelin        | No reaction                    |                                                                            |
-| Liebermann      | No reaction                    |                                                                            |
-| Froehde         | No reaction                    |                                                                            |
-| Robadope        | No reaction                    |                                                                            |
-| Ehrlich         | Pink - Purple - Blueish (slow) | Also interacts with other indole compounds, such as DMT, psilocin, and LSA |
-| Hofmann         | Blue                           | Helps differentiate LSD from other indole substances                       |
-| Simon's         | No reaction                    |                                                                            |
-| Scott           | -                              |                                                                            |
-| Folin-Ciocalteu | -                              |                                                                            |
+| Test            | Result                         | Notes                                                                                  |
+| --------------- | ------------------------------ | -------------------------------------------------------------------------------------- |
+| Marquis         | No reaction                    | Good to rule-out [[NBOMe]] compounds                                                   |
+| Mecke           | Olive/Green (slow, weak)       |                                                                                        |
+| Mandelin        | No reaction                    |                                                                                        |
+| Liebermann      | No reaction                    |                                                                                        |
+| Froehde         | No reaction                    |                                                                                        |
+| Robadope        | No reaction                    |                                                                                        |
+| Ehrlich         | Pink - Purple - Blueish (slow) | Also interacts with other indole compounds, such as [[DMT]], [[Psilocin]], and [[LSA]] |
+| Hofmann         | Blue                           | Helps differentiate LSD from other indole substances                                   |
+| Simon's         | No reaction                    |                                                                                        |
+| Scott           | -                              |                                                                                        |
+| Folin-Ciocalteu | -                              |                                                                                        |
 
 ---
 ## ==Tips==

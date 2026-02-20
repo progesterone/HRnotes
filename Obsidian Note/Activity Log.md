@@ -48,6 +48,11 @@
 	* [[2C-B]]
 * Expanded warnings for [[Joy]] and [[Overview]]
 * Created and researched [[DMT]]
+* Created [[Albert Hofmann Notes]] & Wrote [[Albert Hofmann]]'s write-up
+* Corrected [[Psilocybin]] and [[Psilocin]]'s inconsistent capitalization
+* Corrected [[Ketamine]]'s inconsistent capitalization
+* made https://joy.rip redirect to the obsidian publish site
+* small changes to [[template]]
 #### Notes:
 I am overall very happy with the way this is turning out, I know I have a lot lot more work to do, but I'm liking this structure new structure and general cleanliness of entries. 
 # 2/18/26
@@ -103,5 +108,5 @@ I am overall very happy with the way this is turning out, I know I have a lot lo
 #### Goals
 - update / revamp LSD's entry
 - research MDMA
-- research ketamine & add experience entry
+- research [[Ketamine]] & add experience entry
 

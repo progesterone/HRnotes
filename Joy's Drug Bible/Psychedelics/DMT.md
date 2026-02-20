@@ -4,7 +4,7 @@
 
 Created: 2/19/26
 Last Updated on: 2/19/26
-Version: 1.0.0
+Version: 1.0.1
 (template version: 2.1.2)
 
 ⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** I am not affiliated, approved, nor endorsed with any groups or organizations, the usage of their information and resources is to my dismay.

@@ -8,7 +8,7 @@ Version: 1.1.1
 
 ⚠️**Reminder:** Do not use this as a sole resource. I am human, I'm in my early 20s, and I barely passed high school. The information here is to my best ability accurate and non-biased. Reluctancy of using other sources puts you and others in danger. **Overdoses may not give victims a second chance.** I am not affiliated, approved, nor endorsed with any groups or organizations, the usage of their information and resources is to my dismay.
 ## ==Overview / Quick Notes==
-A psychedelic of the phenethylamine class, part of the 2C-X family, often times compared to a mix of [[LSD]] and [[MDMA]]. First discovered in 1974, by [[Alexander Shulgin]]. The mechanism of 2C-B is not fully researched, but it is known to interact with 5HT2a, the serotonin receptors. Known for medium strength visuals, euphoria, and contains the ability for ego loss. Considered to have less serious headspace than other [[Drug Classes#tryptamine|tryptamine class]] drugs, like [[LSD]] or psilocybin mushrooms.
+A psychedelic of the phenethylamine class, part of the 2C-X family, often times compared to a mix of [[LSD]] and [[MDMA]]. First discovered in 1974, by [[Alexander Shulgin]]. The mechanism of 2C-B is not fully researched, but it is known to interact with 5HT2a, the serotonin receptors. Known for medium strength visuals, euphoria, and contains the ability for ego loss. Considered to have less serious headspace than other [[Drug Classes#tryptamine|tryptamine class]] drugs, like [[LSD]] or [[Psilocybin]] mushrooms.
 
 First being sold as "Eros," as a aphrodisiac, manufactured by Drittewelle, a German pharmaceutical company. Later it also became available as "Nexus," a tablet sold in Dutch "smart shops."
 
